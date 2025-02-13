@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 1.0.0
+cashDeskVersions: 2.0 FP13,2.0 FP17, 2.0 FP19
+cashdeskPOSPlugin: com.abs.sap.cco.plugin.OriginalID.Plugin
+pluginName: OriginalID
+version: 1.0.0
+
