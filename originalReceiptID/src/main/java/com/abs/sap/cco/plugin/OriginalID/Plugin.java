@@ -173,7 +173,7 @@ public class Plugin extends BasePlugin {
 
 
 	// Helper method to add KeyValPairs with a null check
-				private void addKeyValPair(GenericValues genericValues, String key, String value) {
+	private void addKeyValPair(GenericValues genericValues, String key, String value) {
 					
 					logger.info("key value: " + key);
 				    if (value != null) {
@@ -185,8 +185,5 @@ public class Plugin extends BasePlugin {
 				        logger.warn("Null value for key: " + key);
 				    }
 				}
-	
-	
-	
-	   
+		   
 }
